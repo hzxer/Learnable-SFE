@@ -1,6 +1,0 @@
-![crack_Sheet1__animation_20251117](https://github.com/user-attachments/assets/4b1d407f-e71e-48e5-896f-c64f18806780)
-![crack_Sheet2__animation_20251117](https://github.com/user-attachments/assets/d3d878c6-c230-4857-9013-65e23f64dc99)
-![crack_Sheet3__animation_20251117](https://github.com/user-attachments/assets/ce82a858-d133-418f-9cb3-5c332e6eca66)
-![stress_Sheet1__animation_20251117](https://github.com/user-attachments/assets/5e7813fa-21e8-444c-b7e4-79eb81b64072)
-![stress_Sheet2__animation_20251117](https://github.com/user-attachments/assets/f3b161d4-64a6-412e-98ef-bcef059a704f)
-![stress_Sheet3__animation_20251117](https://github.com/user-attachments/assets/2800800c-c6d0-443a-9ad6-a1539befb760)
