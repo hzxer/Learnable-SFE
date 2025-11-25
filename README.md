@@ -1,4 +1,5 @@
-Experiments, Corresponding Predicted Multi-crack Propagations and Their Stress-field Evolution Visualization
-![1](https://github.com/user-attachments/assets/e2befa3e-a741-409e-8e62-69f3743e5bc1)
-![crack_Sheet1__animation_20251117_resized_300px](https://github.com/user-attachments/assets/de845ca7-e360-439d-8880-402ac5e85eac)
-![stress_Sheet1__animation_20251117_resized_300px](https://github.com/user-attachments/assets/82110371-1685-42bf-aee4-9a0a27ece8f7)
+Experiments, Corresponding Predicted Multi-crack Propagations, and Their Stress-field Evolution Visualization
+
+![crack_Sheet1__animation_20251117_resized_400px](https://github.com/user-attachments/assets/17f2b8af-5edf-4c63-a165-091757f78191)
+![crack_Sheet1__animation_20251117_resized_400px](https://github.com/user-attachments/assets/e6f97d83-0625-4313-b249-5f679ae695fb)
+![crack_Sheet1__animation_20251117_resized_400px](https://github.com/user-attachments/assets/2e654ddd-fd5f-470e-b898-a03d0e548a9b)
